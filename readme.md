@@ -69,3 +69,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Error 
+am having undefined variable error on my blade file
+wat i was trying to accomplish it to pull laravel title from the database dynamically using a db field site_name .
